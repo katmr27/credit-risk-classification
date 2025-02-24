@@ -24,10 +24,10 @@ Machine Learning Model 1:
 	• Weighted Average:
 		○ Precision: 0.99
 		○ Recall: 0.99
-      ○ F1-Score: 0.99
+      		○ F1-Score: 0.99
 
       
-##Summary
+## Summary
 
 Recommendation:
 The machine learning model demonstrates high overall performance, with an accuracy of 0.99. However, the evaluation depends on the specific problem at hand:
